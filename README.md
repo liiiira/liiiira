@@ -16,7 +16,6 @@ computer science, where I ranked in Section A, the top 10% of my cohort.
 
 - 🔭 Focused on **scaling AI systems** and the **mathematical and theoretical foundations of machine learning**
 - ⚙️ Also into **system design and architecture**
-- 📐 I like understanding *why* an algorithm works before reaching for a framework
 - 🗣️ Arabic (native) · French (C2) · English (fluent)
 
 ### 🚀 Featured projects
