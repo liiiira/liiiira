@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI &amp; Data Science engineering student at ENSIA</b><br/>
-  Curious about how AI systems scale, the math that makes machine learning work, and the backends that run it all.
+  Curious about how AI systems scale, the math that makes machine learning work, and how to design the systems around them.
 </p>
 
 ---
@@ -15,7 +15,7 @@ the engineering cycle, after two preparatory years built on mathematics and theo
 computer science, where I ranked in Section A, the top 10% of my cohort.
 
 - 🔭 Focused on **scaling AI systems** and the **mathematical and theoretical foundations of machine learning**
-- ⚙️ Also into **backend development** and **systems architecture**
+- ⚙️ Also into **system design and architecture**
 - 📐 I like understanding *why* an algorithm works before reaching for a framework
 - 🗣️ Arabic (native) · French (C2) · English (fluent)
 
@@ -23,18 +23,15 @@ computer science, where I ranked in Section A, the top 10% of my cohort.
 
 **[UStudy](https://github.com/liiiira/Ustudy)**: a community platform for computer science students.
 Module-based spaces, shared course resources and learning roadmaps, so students work through problems
-together instead of alone. Also my playground for building a backend, a database and an API the way
-they're built in production.<br/>
+together instead of alone. Also my playground for designing a real system end to end (data model,
+API and architecture) the way it's done in production.<br/>
 `Next.js` `React` `Express` `PostgreSQL`
 
-**[ML From Scratch](https://github.com/liiiira/machine_learning)**: a math-first research notebook
-implementing classical machine learning algorithms in NumPy. It covers why the math works, which
-assumptions it depends on, and where it breaks.<br/>
-`Python` `NumPy`
-
-**GreenRoute**: a multi-criteria route planner built on real public transport network data. It finds
-itineraries that balance cost, travel time and CO₂ emissions with multi-objective shortest-path algorithms.<br/>
-`Graph algorithms` `Multi-objective optimization`
+**GreenRoute**: a multi-modal public transit router (metro, tram, bus, train and walking) that balances
+travel time, price and CO₂ emissions according to each traveller's priorities. It implements A\*, Dijkstra
+and bidirectional search with haversine and ALT (landmarks + triangle inequality) heuristics, behind a
+map-based web app for planning routes and comparing algorithms.<br/>
+`Python` `Flask` `NetworkX` `React` `TypeScript` `Leaflet`
 
 ### 🛠️ Tech stack
 
