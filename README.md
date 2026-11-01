@@ -32,7 +32,7 @@ and bidirectional search with haversine and ALT (landmarks + triangle inequality
 map-based web app for planning routes and comparing algorithms.<br/>
 `Python` `Flask` `NetworkX` `React` `TypeScript` `Leaflet`
 
-### 🛠️ Tech stack
+### Tech stack
 
 **Web & software**<br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
