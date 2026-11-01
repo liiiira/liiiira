@@ -26,7 +26,7 @@ together instead of alone. Also my playground for designing a real system end to
 API and architecture) the way it's done in production.<br/>
 `Next.js` `React` `Express` `PostgreSQL`
 
-**GreenRoute**: a multi-modal public transit router (metro, tram, bus, train and walking) that balances
+**[GreenRoute](https://green-router-steel.vercel.app/)**: a multi-modal public transit router (metro, tram, bus, train and walking) that balances
 travel time, price and CO₂ emissions according to each traveller's priorities. It implements A\*, Dijkstra
 and bidirectional search with haversine and ALT (landmarks + triangle inequality) heuristics, behind a
 map-based web app for planning routes and comparing algorithms.<br/>
