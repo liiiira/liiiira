@@ -7,18 +7,18 @@
 
 ---
 
-### 🧠 About me
+### About me
 
 I'm working toward an engineering degree in **Artificial Intelligence and Data Science** at
 **ENSIA** (École nationale supérieure d'intelligence artificielle). I'm in the first year of
 the engineering cycle, after two preparatory years built on mathematics and theoretical
 computer science, where I ranked in Section A, the top 10% of my cohort.
 
-- 🔭 Focused on **scaling AI systems** and the **mathematical and theoretical foundations of machine learning**
-- ⚙️ Also into **system design and architecture**
-- 🗣️ Arabic (native) · French (C2) · English (fluent)
+- Focused on **scaling AI systems** and the **mathematical and theoretical foundations of machine learning**
+- Also into **system design and architecture**
+- Arabic (native) · French (C2) · English (fluent)
 
-### 🚀 Featured projects
+### Featured projects
 
 **[UStudy](https://github.com/liiiira/Ustudy)**: a community platform for computer science students.
 Module-based spaces, shared course resources and learning roadmaps, so students work through problems
